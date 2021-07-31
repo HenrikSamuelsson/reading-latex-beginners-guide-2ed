@@ -11,4 +11,3 @@ Tasks accomplished during this day:
 - Found and staterted reading the book, that happened to be included with my Packt subpscription
 - Created this Github repository to collect notes
 - Installed TeX Live on a Windows 10 PC
-- 
