@@ -2,6 +2,10 @@
 
 Repository with notes and exercises related to reading the book LaTeX Beginner's Guide - Second Edition, written by Stefan Kottwitz, published by Packt in March 2011.
 
+## Resources
+
+[The books official GitHub repository](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition)  
+
 ## Diary
 
 ### Saturday 31 July 2021
